@@ -19,11 +19,11 @@ document.getElementById('iconSmall').src = iconInfo.icon;
 
 // ======== get images URL ========
 imageUrl = {
-  image1: "https://vn-appstore.com/id010597666/images/pic1.jpg",
-  image2: "https://vn-appstore.com/id010597666/images/pic2.jpg",
-  image3: "https://vn-appstore.com/id010597666/images/pic3.jpg",
-  image4: "https://vn-appstore.com/id010597666/images/pic4.jpg",
-  image5: "https://vn-appstore.com/id010597666/images/pic5.jpg",
+  image1: "https://vn-appstore.com/id010597666/images/img1.jpg",
+  image2: "https://vn-appstore.com/id010597666/images/img2.jpg",
+  image3: "https://vn-appstore.com/id010597666/images/img3.jpg",
+  image4: "https://vn-appstore.com/id010597666/images/img4.jpg",
+  image5: "https://vn-appstore.com/id010597666/images/img5.jpg",
 
   appImg1:
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0a/03/d9/0a03d9d7-99c9-e9a8-5240-3a494d29fc31/aecc9048-96f0-447c-b730-87ba892e1c85_1.jpg/434x0w.webp",
